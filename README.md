@@ -5,7 +5,7 @@
 
 ## :pushpin: 개발 스택 ##
 - Java (JDK 1.8)
-- Ultimate IntelliJ Edition
+- Tomcat9
 - SQLite 3.36.0.3
 - Maven
 - Web Application
